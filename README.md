@@ -13,6 +13,7 @@
    If there are no streaming sources available then the function will return False
    ### Television shows
    >import streamfinder
+   ##
    >sources = streamfinder.find_tvseries(title)
   #### find_tvseries(title) will return a list of streaming sources of the television show title passed as argument
    If there are no streaming sources available then the function will return False
