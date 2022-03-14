@@ -7,6 +7,7 @@
  To find the streaming source of movies call find_movie
  ### Movies
   >import streamfinder
+  ##
   >sources = streamfinder.find_movie(title)
   #### find_movie(title) will return a list of streaming sources of the movie title passed as argument
    If there are no streaming sources available then the function will return False
