@@ -1,4 +1,4 @@
-# stream-source 0.0.1
+# stream-finder
  A python API to locate streaming sources for all movies and television shows
  ## How to install ?
  Open the terminal and type in the command
