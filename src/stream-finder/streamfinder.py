@@ -8,7 +8,7 @@ Created on Fri Jan 21 11:37:29 2022
 import requests
 from bs4 import BeautifulSoup
 
-# title="the-conjuring"
+
 
 def format_title(title):
     title=title.lower()
